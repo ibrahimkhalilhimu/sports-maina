@@ -1,0 +1,11 @@
+.background {
+  background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.5) 0%,
+      rgba(255, 255, 255, 0) 100%
+    ),
+    url("https://i.ibb.co/f22xmS5/Rectangle-21.png");
+  background-size: cover;
+  height: 362px;
+  background-repeat: no-repeat;
+}

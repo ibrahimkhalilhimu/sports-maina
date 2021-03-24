@@ -1,0 +1,23 @@
+.backgroundDetails {
+  background-image: linear-gradient(
+      rgba(245, 246, 252, 0.72),
+      rgba(245, 246, 252, 0.72)
+    ),
+    url("https://i.ibb.co/f22xmS5/Rectangle-21.png");
+  background-size: cover;
+  height: 362px;
+  background-repeat: no-repeat;
+}
+.backgroundDetails img {
+  padding-top: 50px;
+  width: 200px;
+  margin: auto;
+}
+.cardDesign {
+  margin-top: 20px;
+  background: #3a42ff;
+  border-radius: 15px;
+}
+.imageSide img {
+  width: 500px;
+}

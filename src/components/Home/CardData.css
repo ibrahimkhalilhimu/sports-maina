@@ -1,0 +1,20 @@
+.card {
+  margin-top: 6px;
+  background: #ffffff;
+  border: none;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+}
+.card img {
+  width: 90px;
+  height: 100px;
+}
+.btnCard {
+  margin-top: 12px;
+  background-color: #3a42ff;
+  color: #ffffff;
+  width: 131px;
+  height: 48px;
+}
